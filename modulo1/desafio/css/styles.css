@@ -1,0 +1,55 @@
+.custon {
+  background-color: rgb(254, 247, 255);
+}
+
+.title {
+  text-align: center;
+  margin-bottom: 15px;
+  color: rgb(0, 121, 107);
+}
+
+.flex-row {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.flex-aling-top {
+  align-items: flex-start;
+}
+
+.flex-center {
+  justify-content: center;
+}
+
+.input {
+  display: flex;
+  width: 100%;
+  margin-right: 10px;
+}
+.panel {
+  width: 50%;
+  border: 1px solid lightgray;
+  margin-right: 10px;
+  border-radius: 5px;
+  padding: 10px;
+}
+h2 {
+  font-size: 1.5rem;
+}
+
+.avatar {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  margin-right: 10px;
+}
+
+.space-bottom {
+  margin-bottom: 5px;
+}
+
+.hidden {
+  display: none;
+}
